@@ -1,0 +1,4 @@
+AuthUserFile /.htpasswd
+AuthType Basic
+AuthName "Restricted Access"
+Require user techstarsboulder2013
