@@ -1,4 +1,4 @@
-AuthUserFile /.htpasswd
+AuthUserFile /app/www/.htpasswd
 AuthType Basic
 AuthName "Restricted Access"
 Require user techstarsboulder2013
