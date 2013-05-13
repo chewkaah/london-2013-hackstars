@@ -160,7 +160,7 @@ function print_faces($faces)
 
 			<?php
 		 		$faces = array();
-		 		$faces[] = array('name' => 'Brad Thorson','title' => '','email' => 'bbthorson@gmail.com','phone' => '','linkedin' => 'http://www.linkedin.com/in/bbthorson','twitter' => '@bbthorson','img' => array('src' => 'img/question.jpg','class' => 'height-150 top-5 left-40'));
+		 		$faces[] = array('name' => 'Brad Thorson','title' => '','email' => 'bbthorson@gmail.com','phone' => '','linkedin' => 'http://www.linkedin.com/in/bbthorson','twitter' => '@bbthorson','img' => array('src' => 'img/thorson.jpg','class' => 'height-150 top-5 left-0'));
 				$faces[] = array('name' => 'Aswin Natajaran','title' => '','email' => 'aswin.nataraj@gmail.com','phone' => '','linkedin' => 'www.linkedin.com/pub/aswin-natarajan/22/42/a66
 ','twitter' => '@heyaswin','img' => array('src' => 'http://m.c.lnkd.licdn.com/media/p/7/000/208/00e/37ea6c2.jpg','class' => 'height-150 top-5 left-10'));
 				$faces[] = array('name' => 'Jordan Burt','title' => '','email' => 'jburt07@gmail.com','phone' => '','linkedin' => 'http://www.linkedin.com/in/jordanburt','twitter' => '@J_M_Burt','img' => array('src' => 'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/8/000/25b/135/148576e.jpg','class' => 'height-150 top-5 left-0'));
