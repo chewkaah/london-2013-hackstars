@@ -178,7 +178,7 @@ function print_faces($faces)
 		 		$faces[] = array('name' => 'Chase Courington','title' => '','email' => '','phone' => '','linkedin' => 'http://www.linkedin.com/in/chasecourington','twitter' => '@chasecourington','img' => array('src' => 'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/2/000/245/109/0c48d2c.jpg','class' => 'height-100 top-5 left-40'));
                 $faces[] = array('name' => 'Royce Haynes','title' => '','email' => 'royce.haynes@gmail.com','phone' => '','linkedin' => 'http://www.linkedin.com/in/roycehaynes','twitter' => '@roycehaynes','img' => array('src' => 'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/5/000/1f2/205/069bb80.jpg','class' => 'height-150 top-5 left-14'));
                 $faces[] = array('name' => 'Crystal Chang','title' => '','email' => 'crystalschang@gmail.com','phone' => '','linkedin' => 'http://www.linkedin.com/pub/crystal-chang/b/113/20b','twitter' => '@crystalschang','img' => array('src' => 'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/2/000/1f4/17d/29f30fe.jpg','class' => 'height-140 top-5 rigth-5'));
-                $faces[] = array('name' => 'Alex Mark','title' => '','email' => '','phone' => '','linkedin' => '','twitter' => '','img' => array('src' => 'img/question.jpg','class' => 'height-150 top-5 left-40'));
+                $faces[] = array('name' => 'Alex Mark','title' => '','email' => 'alex@alex-mark.com','phone' => '','linkedin' => 'http://www.linkedin.com/pub/alex-mark/20/991/ab6','twitter' => '@AlsoColor','img' => array('src' => 'img/mark.jpg','class' => 'height-150 top-5 left-0'));
 
 		 		print_faces($faces);
 		 	?>
