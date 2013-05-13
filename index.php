@@ -95,10 +95,10 @@ function print_faces($faces)
 				$faces['adsnative']['faces'][] = array('name' => 'Kuldeep Kapade','title' => '','email' => 'kuldeep@adsnative.com','phone' => '','linkedin' => 'http://www.linkedin.com/in/kuldeepkapade','twitter' => '','img' => array('src' => 'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/2/000/00b/027/231edba.jpg','class' => 'height-150 top-5 left-0'));
                 $faces['adsnative']['faces'][] = array('name' => 'Satish Polisetti','title' => '','email' => 'satish@adsnative.com','phone' => '','linkedin' => 'https://www.linkedin.com/in/polisettisatish','twitter' => '@sat_p','img' => array('src' => 'https://m1-s.licdn.com/mpr/mpr/shrink_200_200/p/2/000/1d2/096/12ec34c.jpg','class' => 'height-150 top-5 left-0'));
 
-				$faces['auger'] = array('title' => 'Auger','url' => 'http://www.auger.io','faces' => array());
-				$faces['auger']['faces'][] = array('name' => 'Nawar Alsafar','title' => '','email' => 'nawar@auger.io','phone' => '','linkedin' => 'http://www.linkedin.com/in/alsafar','twitter' => '@gohackyourself','img' => array('src' => 'img/alsafar.jpg','class' => 'height-150 top-5 right-15'));
-				$faces['auger']['faces'][] = array('name' => 'Roger Pincombe','title' => '','email' => 'roger@auger.io','phone' => '','linkedin' => 'http://www.linkedin.com/in/rogerpincombe','twitter' => '@OkGoDoIt','img' => array('src' => 'img/pincombe.jpg','class' => 'height-150 left-5 top-5'));
- 				$faces['auger']['faces'][] = array('name' => 'Stefan Koenig','title' => '','email' => 'stefan@auger.io','phone' => '','linkedin' => 'http://www.linkedin.com/in/stefankoenig/','twitter' => '@koenigst','img' => array('src' => 'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/5/000/210/0f7/15184ae.jpg','class' => 'height-150 top-5 left-10'));
+				$faces['augur'] = array('title' => 'Augur','url' => 'http://www.augur.io','faces' => array());
+				$faces['augur']['faces'][] = array('name' => 'Nawar Alsafar','title' => '','email' => 'nawar@augur.io','phone' => '','linkedin' => 'http://www.linkedin.com/in/alsafar','twitter' => '@gohackyourself','img' => array('src' => 'img/alsafar.jpg','class' => 'height-150 top-5 right-15'));
+				$faces['augur']['faces'][] = array('name' => 'Roger Pincombe','title' => '','email' => 'roger@augur.io','phone' => '','linkedin' => 'http://www.linkedin.com/in/rogerpincombe','twitter' => '@OkGoDoIt','img' => array('src' => 'img/pincombe.jpg','class' => 'height-150 left-5 top-5'));
+ 				$faces['augur']['faces'][] = array('name' => 'Stefan Koenig','title' => '','email' => 'stefan@augur.io','phone' => '','linkedin' => 'http://www.linkedin.com/in/stefankoenig/','twitter' => '@koenigst','img' => array('src' => 'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/5/000/210/0f7/15184ae.jpg','class' => 'height-150 top-5 left-10'));
 
 				$faces['brandfolder'] = array('title' => 'Brandfolder','url' => 'http://www.brandfolder.com','faces' => array());
 				$faces['brandfolder']['faces'][] = array('name' => 'Brian Parks','title' => '','email' => 'brian.parks@brandfolder.com','phone' => '','linkedin' => 'www.linkedin.com/in/parksbrian/','twitter' => '@parkstweet','img' => array('src' => 'img/parks.jpg','class' => 'height-150 top-5 left-10'));
@@ -110,7 +110,7 @@ function print_faces($faces)
 				$faces['elihuu']['faces'][] = array('name' => 'Dorian Ferlauto','title' => '','email' => 'dorian@elihuu.com','phone' => '','linkedin' => 'http://www.linkedin.com/pub/dorian-j-ferlauto/18/873/56','twitter' => '@dorianjferlauto','img' => array('src' => 'img/ferlauto.jpg','class' => 'height-150 bottom-0'));
 				$faces['elihuu']['faces'][] = array('name' => 'John Ipson','title' => '','email' => 'john@elihuu.com','phone' => '','linkedin' => '','twitter' => '@ipsonic','img' => array('src' => 'img/question.jpg','class' => 'height-150 top-5 left-40'));
 
-				$faces['givengoods'] = array('title' => 'Givengoods','url' => 'http://www.givengoods.co','faces' => array());
+				$faces['givengoods'] = array('title' => 'Given Goods','url' => 'http://www.givengoods.co','faces' => array());
 				$faces['givengoods']['faces'][] = array('name' => 'Cameron Houser','title' => '','email' => 'cammy@givengoods.co','phone' => '','linkedin' => 'http://www.linkedin.com/pub/cameron-houser/28/81a/b07','twitter' => '@cameronhouser','img' => array('src' => 'img/houser.jpg','class' => 'height-160 bottom-0'));
 				$faces['givengoods']['faces'][] = array('name' => 'Riley End','title' => '','email' => 'riley@givengoods.co','phone' => '','linkedin' => 'http://www.linkedin.com/pub/riley-end/30/978/678','twitter' => '@rileyend','img' => array('src' => 'img/end.jpg','class' => 'height-160 left-5 bottom-0'));
 
@@ -118,7 +118,7 @@ function print_faces($faces)
 				$faces['goodapril']['faces'][] = array('name' => 'Benny Joseph','title' => '','email' => 'benny@goodapril.com','phone' => '','linkedin' => 'www.linkedin.com/in/bennyvenatjoseph/','twitter' => '@bvj','img' => array('src' => 'img/joseph.jpg','class' => 'height-140 bottom-0'));
 				$faces['goodapril']['faces'][] = array('name' => 'Mitch Fox','title' => '','email' => 'mitch@goodapril.com ','phone' => '','linkedin' => 'www.linkedin.com/in/mitchellwfox/','twitter' => '@mitchellwfox','img' => array('src' => 'img/fox.png','class' => 'height-150 bottom-0'));
 
-				$faces['hull'] = array('title' => 'Hull','url' => 'http://www.hull.io','faces' => array());
+				$faces['hull'] = array('title' => 'hull.io','url' => 'http://www.hull.io','faces' => array());
 				$faces['hull']['faces'][] = array('name' => 'Romain Dardour','title' => '','email' => 'romain@hull.io','phone' => '','linkedin' => 'http://fr.linkedin.com/in/rdardour/','twitter' => '@rdardour','img' => array('src' => 'img/dardour.jpg','class' => 'height-150 bottom-0 left-5'));
 				$faces['hull']['faces'][] = array('name' => 'Stephane Bellity','title' => '','email' => 'stephane@hull.io','phone' => '','linkedin' => 'http://www.linkedin.com/in/sbellity','twitter' => '@sbellity','img' => array('src' => 'img/bellity.jpg','class' => 'height-150 bottom-0 left-5'));
 
