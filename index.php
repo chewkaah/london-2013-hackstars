@@ -108,7 +108,7 @@ function print_faces($faces)
 				$faces['elihuu'] = array('title' => 'Elihuu','url' => 'http://elihuu.com','faces' => array());
 				$faces['elihuu']['faces'][] = array('name' => 'Alex Henry','title' => '','email' => 'alex@elihuu.com','phone' => '','linkedin' => '','twitter' => '@meetelihuu','img' => array('src' => 'img/henry.jpg','class' => 'height-150 bottom-0 left-5'));
 				$faces['elihuu']['faces'][] = array('name' => 'Dorian Ferlauto','title' => '','email' => 'dorian@elihuu.com','phone' => '','linkedin' => 'http://www.linkedin.com/pub/dorian-j-ferlauto/18/873/56','twitter' => '@dorianjferlauto','img' => array('src' => 'img/ferlauto.jpg','class' => 'height-150 bottom-0'));
-				$faces['elihuu']['faces'][] = array('name' => 'John Ipson','title' => '','email' => 'john@elihuu.com','phone' => '','linkedin' => '','twitter' => '@ipsonic','img' => array('src' => 'img/question.jpg','class' => 'height-150 top-5 left-40'));
+				$faces['elihuu']['faces'][] = array('name' => 'John Ipson','title' => '','email' => 'john@elihuu.com','phone' => '','linkedin' => '','twitter' => '@ipsonic','img' => array('src' => 'img/ipson.jpg','class' => 'height-150 top-5 left-0'));
 
 				$faces['givengoods'] = array('title' => 'Given Goods','url' => 'http://www.givengoods.co','faces' => array());
 				$faces['givengoods']['faces'][] = array('name' => 'Cameron Houser','title' => '','email' => 'cammy@givengoods.co','phone' => '','linkedin' => 'http://www.linkedin.com/pub/cameron-houser/28/81a/b07','twitter' => '@cameronhouser','img' => array('src' => 'img/houser.jpg','class' => 'height-160 bottom-0'));
