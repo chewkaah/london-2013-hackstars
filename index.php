@@ -76,7 +76,7 @@ function print_faces($faces)
 		 		$faces = array();
 		 		$faces[] = array('name' => 'Luke Beatty','title' => 'Managing Director','email' => 'luke.beatty@techstars.com','phone' => '(555) 555-5555','linkedin' => 'http://www.linkedin.com/pub/luke-beatty/56/147/57a','twitter' => '@luke_beatty','img' => array('src' => 'img/beatty.jpg','class' => 'height-140 bottom-0 left-25'));
 		 		$faces[] = array('name' => 'Eugene Wan','title' => 'Program Manager','email' => 'eugene.wan@techstars.com','phone' => '(555) 555-5555','linkedin' => 'http://www.linkedin.com/pub/eugene-wan/47/24b/62a','twitter' => '@EugeneWan','img' => array('src' => 'https://s3.amazonaws.com/founders-techstars-images/003E000000aDJCKIA4.jpg','class' => 'height-150 bottom-0 left-0'));
-		 		$faces[] = array('name' => 'Luke Vernon','title' => 'Entrepreneur In Residence','email' => 'davidstern@gmail.com','phone' => '','linkedin' => 'http://www.linkedin.com/in/lvernon','twitter' => '','img' => array('src' => 'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/2/000/10a/39a/3274681.jpg','class' => 'height-150 top-5 left-0'));
+		 		$faces[] = array('name' => 'Luke Vernon','title' => 'Entrepreneur In Residence','email' => 'bouldervernon@gmail.com','phone' => '','linkedin' => 'http://www.linkedin.com/in/lvernon','twitter' => '','img' => array('src' => 'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/2/000/10a/39a/3274681.jpg','class' => 'height-150 top-5 left-0'));
 
 		 		print_faces($faces);
 		 	?>
